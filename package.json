@@ -1,0 +1,29 @@
+{
+    "name": "jquery.external-links",
+    "version": "1.2.1",
+    "title": "jQuery.External-Links()",
+    "author": {
+        "name": "Maxime Thirouin",
+        "url": "http://MoOx.fr/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://moox.mit-license.org/"
+        },
+    ],
+    "dependencies": {
+        "jquery": ">1.2.3"
+    },
+    "description": "a jQuery plugin to easyli manage externals links (new window behavior if not the same domain + google analytics tracking)",
+    "keywords": [
+        "links",
+        "tracking"
+        "window.open",
+        "target",
+    ],
+    "homepage": "https://MoOx.github.com/jQuery.External-Links",
+    "files": [
+        "jquery.external-links.js"
+    ]
+}
